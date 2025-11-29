@@ -78,7 +78,7 @@ class Program
                 case "0":
                     return;
                 default:
-                    Console.WriteLine("Unknown option");
+                    Console.WriteLine("Unknown option.");
                     break;
             }
         }
